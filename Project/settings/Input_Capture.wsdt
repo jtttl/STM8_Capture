@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Input_Capture/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>169</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></Debug-Log><TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29626-43</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Input_Capture</ExpandedNode><ExpandedNode>Input_Capture/FWlib</ExpandedNode><ExpandedNode>Input_Capture/USER</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\main.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1074</SelStart><SelEnd>1074</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\tim1_ic.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>334</SelStart><SelEnd>334</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\stm8s_it.c</Filename><XPos>0</XPos><YPos>246</YPos><SelStart>7259</SelStart><SelEnd>7259</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\uart1.c</Filename><XPos>0</XPos><YPos>186</YPos><SelStart>4421</SelStart><SelEnd>4421</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\tim1_ic.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>726</SelStart><SelEnd>726</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00cfed98><key>iaridepm.enu1</key></Toolbar-00cfed98></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>641</Bottom><Right>243</Right><x>-2</x><y>-2</y><xscreen>207</xscreen><yscreen>117</yscreen><sizeHorzCX>151537</sizeHorzCX><sizeHorzCY>170554</sizeHorzCY><sizeVertCX>179356</sizeVertCX><sizeVertCY>937318</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
